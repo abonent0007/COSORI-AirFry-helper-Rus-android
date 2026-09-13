@@ -1,0 +1,104 @@
+{
+  "modes": [
+    {
+      "id": "AIR_FRY",
+      "fanSpeed": 5,
+      "tempMinC": 150,
+      "tempMaxC": 230,
+      "defaultTempC": 195,
+      "defaultTimeMin": 10,
+      "timeRangeLabel": "1–60 мин",
+      "description": "Хрустящая корочка: картофель, крылья, наггетсы. Максимальный обдув."
+    },
+    {
+      "id": "ROAST",
+      "fanSpeed": 5,
+      "tempMinC": 175,
+      "tempMaxC": 230,
+      "defaultTempC": 220,
+      "defaultTimeMin": 12,
+      "timeRangeLabel": "1–60 мин",
+      "description": "Запекание: мясо, овощи, курица куском. Максимальный обдув."
+    },
+    {
+      "id": "BAKE",
+      "fanSpeed": 3,
+      "tempMinC": 125,
+      "tempMaxC": 205,
+      "defaultTempC": 165,
+      "defaultTimeMin": 20,
+      "timeRangeLabel": "1–60 мин",
+      "description": "Выпечка: кексы, печенье, запеканки, пироги, грибы. Средний обдув."
+    },
+    {
+      "id": "GRILL",
+      "fanSpeed": 5,
+      "tempMinC": 220,
+      "tempMaxC": 230,
+      "defaultTempC": 230,
+      "defaultTimeMin": 5,
+      "timeRangeLabel": "1–30 мин",
+      "description": "Гриль: быстрая корочка сверху, расплавленный сыр, бекон. Максимальный обдув."
+    },
+    {
+      "id": "FROZEN",
+      "fanSpeed": 5,
+      "tempMinC": 150,
+      "tempMaxC": 230,
+      "defaultTempC": 200,
+      "defaultTimeMin": 14,
+      "timeRangeLabel": "1–30 мин",
+      "description": "Замороженные полуфабрикаты прямо из морозилки. Максимальный обдув."
+    },
+    {
+      "id": "REHEAT",
+      "fanSpeed": 4,
+      "tempMinC": 150,
+      "tempMaxC": 220,
+      "defaultTempC": 200,
+      "defaultTimeMin": 5,
+      "timeRangeLabel": "1–60 мин",
+      "description": "Разогрев готовой еды."
+    },
+    {
+      "id": "DEHYDRATE",
+      "fanSpeed": 1,
+      "tempMinC": 35,
+      "tempMaxC": 95,
+      "defaultTempC": 55,
+      "defaultTimeMin": 360,
+      "timeRangeLabel": "15 мин – 24 ч",
+      "description": "Сушка (DRY): вяленое мясо, фрукты, травы. Минимальный обдув."
+    },
+    {
+      "id": "PROOF",
+      "fanSpeed": 1,
+      "tempMinC": 30,
+      "tempMaxC": 45,
+      "defaultTempC": 30,
+      "defaultTimeMin": 60,
+      "timeRangeLabel": "15 мин – 12 ч",
+      "description": "Расстойка теста: тёплый воздух без обдува."
+    },
+    {
+      "id": "PREHEAT",
+      "fanSpeed": 4,
+      "tempMinC": 75,
+      "tempMaxC": 230,
+      "defaultTempC": 205,
+      "defaultTimeMin": 4,
+      "timeRangeLabel": "авто",
+      "description": "Преднагрев перед готовкой: 205 °C, 4 мин."
+    },
+    {
+      "id": "KEEP_WARM",
+      "fanSpeed": 2,
+      "tempMinC": 60,
+      "tempMaxC": 90,
+      "defaultTempC": 75,
+      "defaultTimeMin": 30,
+      "timeRangeLabel": "1–60 мин",
+      "description": "Поддержание тепла (WARM): держать блюдо горячим."
+    }
+  ]
+}
