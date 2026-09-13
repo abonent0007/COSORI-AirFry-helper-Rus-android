@@ -2,6 +2,10 @@
 
 Офлайн Android-приложение (Kotlin + Jetpack Compose), которое подсказывает, **какие кнопки нажать** на аэрогриле Cosori CAF-DC601 (и других подобных моделях с таким же функционалом), **с какой температурой и временем**, чтобы приготовить блюдо из выбранных продуктов. Без ИИ и без интернета — вся база внутри приложения.
 
+| Главный экран | Настройки | Таймер |
+|---|---|---|
+| <img width="1440" height="3120" alt="Screenshot_1789300382" src="https://github.com/user-attachments/assets/913dff90-c47e-4ac9-830c-c7776c0f937a" /> | <img width="1440" height="3120" alt="Screenshot_1789300638" src="https://github.com/user-attachments/assets/b73a4235-eae1-4ae2-bb59-efff79afc9cc" /> | <img width="1440" height="3120" alt="Screenshot_1789300722" src="https://github.com/user-attachments/assets/4bdf7d12-57c2-4c91-b479-f0bbd0f3d352" /> |
+
 ## Что умеет
 
 1. **Рекомендации** — важные правила эксплуатации, безопасность и уход (первый экран, подтверждение «прочитал»).
